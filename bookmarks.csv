@@ -1,0 +1,52 @@
+# Tag name          ;  color
+Untagged            ; #c0c0c0
+
+# Frequency ; Name                     ; Modulation          ;  Bandwidth; Tags
+    26965000; US CB Channel 1          ; AM                  ;      10000; Untagged
+    26975000; US CB Channel 2          ; AM                  ;      10000; Untagged
+    26985000; US CB Channel 3          ; AM                  ;      10000; Untagged
+    26995000; US CB Channel 3A         ; AM                  ;      10000; Untagged
+    27005000; US CB Channel 4          ; AM                  ;      10000; Untagged
+    27015000; US CB Channel 5          ; AM                  ;      10000; Untagged
+    27025000; US CB Channel 6          ; AM                  ;      10000; Untagged
+    27035000; US CB Channel 7          ; AM                  ;      10000; Untagged
+    27045000; US CB Channel 7A         ; AM                  ;      10000; Untagged
+    27055000; US CB Channel 8          ; AM                  ;      10000; Untagged
+    27065000; US CB Channel 9          ; AM                  ;      10000; Untagged
+    27075000; US CB Channel 10         ; AM                  ;      10000; Untagged
+    27085000; US CB Channel 11         ; AM                  ;      10000; Untagged
+    27095000; US CB Channel 11A        ; AM                  ;      10000; Untagged
+    27105000; US CB Channel 12         ; AM                  ;      10000; Untagged
+    27115000; US CB Channel 13         ; AM                  ;      10000; Untagged
+    27125000; US CB Channel 14         ; AM                  ;      10000; Untagged
+    27135000; US CB Channel 15         ; AM                  ;      10000; Untagged
+    27145000; US CB Channel 15A        ; AM                  ;      10000; Untagged
+    27155000; US CB Channel 16         ; AM                  ;      10000; Untagged
+    27165000; US CB Channel 17         ; AM                  ;      10000; Untagged
+    27175000; US CB Channel 18         ; AM                  ;      10000; Untagged
+    27185000; US CB Channel 19         ; AM                  ;      10000; Untagged
+    27195000; US CB Channel 19A        ; AM                  ;      10000; Untagged
+    27205000; US CB Channel 20         ; AM                  ;      10000; Untagged
+    27215000; US CB Channel 21         ; AM                  ;      10000; Untagged
+    27225000; US CB Channel 22         ; AM                  ;      10000; Untagged
+    27255000; US CB Channel 23         ; AM                  ;      10000; Untagged
+    27235000; US CB Channel 24         ; AM                  ;      10000; Untagged
+    27245000; US CB Channel 25         ; AM                  ;      10000; Untagged
+    27265000; US CB Channel 26         ; AM                  ;      10000; Untagged
+    27275000; US CB Channel 27         ; AM                  ;      10000; Untagged
+    27285000; US CB Channel 28         ; AM                  ;      10000; Untagged
+    27295000; US CB Channel 29         ; AM                  ;      10000; Untagged
+    27305000; US CB Channel 30         ; AM                  ;      10000; Untagged
+    27315000; US CB Channel 31         ; AM                  ;      10000; Untagged
+    27325000; US CB Channel 32         ; AM                  ;      10000; Untagged
+    27335000; US CB Channel 33         ; AM                  ;      10000; Untagged
+    27345000; US CB Channel 34         ; AM                  ;      10000; Untagged
+    27355000; US CB Channel 35         ; AM                  ;      10000; Untagged
+    27365000; US CB Channel 36         ; AM                  ;      10000; Untagged
+    27375000; US CB Channel 37         ; AM                  ;      10000; Untagged
+    27385000; US CB Channel 38         ; AM                  ;      10000; Untagged
+    27395000; US CB Channel 39         ; AM                  ;      10000; Untagged
+    27405000; US CB Channel 40         ; AM                  ;      10000; Untagged
+
+   345000000; 2GIG Window Sensor       ; AM                  ;      10000; Untagged
+   929610800; 929.610.800              ; Narrow FM           ;      20000; Untagged
