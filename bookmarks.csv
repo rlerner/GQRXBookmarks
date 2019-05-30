@@ -47,6 +47,37 @@ Untagged            ; #c0c0c0
     27385000; US CB Channel 38         ; AM                  ;      10000; Untagged
     27395000; US CB Channel 39         ; AM                  ;      10000; Untagged
     27405000; US CB Channel 40         ; AM                  ;      10000; Untagged
-
+   162550000; US Weather WX1           ; Narrow FM           ;      10000; Untagged
+   162400000; US Weather WX2           ; Narrow FM           ;      10000; Untagged
+   162475000; US Weather WX3           ; Narrow FM           ;      10000; Untagged
+   162425000; US Weather WX4           ; Narrow FM           ;      10000; Untagged
+   162450000; US Weather WX5           ; Narrow FM           ;      10000; Untagged
+   162500000; US Weather WX6           ; Narrow FM           ;      10000; Untagged
+   162525000; US Weather WX7           ; Narrow FM           ;      10000; Untagged
+   161650000; US Weather WX8           ; Narrow FM           ;      10000; Untagged
+   161775000; US Weather WX9           ; Narrow FM           ;      10000; Untagged
+   163275000; US Weather WX10          ; Narrow FM           ;      10000; Untagged
+   462562500; US FRS Channel 1         ; Narrow FM           ;      10000; Untagged
+   462587500; US FRS Channel 2         ; Narrow FM           ;      10000; Untagged
+   462612500; US FRS Channel 3         ; Narrow FM           ;      10000; Untagged
+   462637500; US FRS Channel 4         ; Narrow FM           ;      10000; Untagged
+   462662500; US FRS Channel 5         ; Narrow FM           ;      10000; Untagged
+   462687500; US FRS Channel 6         ; Narrow FM           ;      10000; Untagged
+   462712500; US FRS Channel 7         ; Narrow FM           ;      10000; Untagged
+   467562500; US FRS Channel 8         ; Narrow FM           ;      10000; Untagged
+   467587500; US FRS Channel 9         ; Narrow FM           ;      10000; Untagged
+   467612500; US FRS Channel 10        ; Narrow FM           ;      10000; Untagged
+   467637500; US FRS Channel 11        ; Narrow FM           ;      10000; Untagged
+   467662500; US FRS Channel 12        ; Narrow FM           ;      10000; Untagged
+   467687500; US FRS Channel 13        ; Narrow FM           ;      10000; Untagged
+   467712500; US FRS Channel 14        ; Narrow FM           ;      10000; Untagged
+   462550000; US FRS Channel 15        ; Narrow FM           ;      10000; Untagged
+   462575000; US FRS Channel 16        ; Narrow FM           ;      10000; Untagged
+   462600000; US FRS Channel 17        ; Narrow FM           ;      10000; Untagged
+   462625000; US FRS Channel 18        ; Narrow FM           ;      10000; Untagged
+   462650000; US FRS Channel 19        ; Narrow FM           ;      10000; Untagged
+   462562500; US FRS Channel 20        ; Narrow FM           ;      10000; Untagged
+   462700000; US FRS Channel 21        ; Narrow FM           ;      10000; Untagged
+   462725000; US FRS Channel 22        ; Narrow FM           ;      10000; Untagged
    345000000; 2GIG Window Sensor       ; AM                  ;      10000; Untagged
    929610800; 929.610.800              ; Narrow FM           ;      20000; Untagged
