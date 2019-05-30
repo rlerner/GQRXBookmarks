@@ -80,4 +80,18 @@ Untagged            ; #c0c0c0
    462700000; US FRS Channel 21        ; Narrow FM           ;      10000; Untagged
    462725000; US FRS Channel 22        ; Narrow FM           ;      10000; Untagged
    345000000; 2GIG Window Sensor       ; AM                  ;      10000; Untagged
-   929610800; 929.610.800              ; Narrow FM           ;      20000; Untagged
+   929610800; Pager Channel            ; Narrow FM           ;      20000; Untagged
+  2412000000; WiFi 2.4GHz Channel 1    ; Narrow FM           ;      20000; Untagged
+  2417000000; WiFi 2.4GHz Channel 2    ; Narrow FM           ;      20000; Untagged
+  2422000000; WiFi 2.4GHz Channel 3    ; Narrow FM           ;      20000; Untagged
+  2427000000; WiFi 2.4GHz Channel 4    ; Narrow FM           ;      20000; Untagged
+  2432000000; WiFi 2.4GHz Channel 5    ; Narrow FM           ;      20000; Untagged
+  2437000000; WiFi 2.4GHz Channel 6    ; Narrow FM           ;      20000; Untagged
+  2442000000; WiFi 2.4GHz Channel 7    ; Narrow FM           ;      20000; Untagged
+  2447000000; WiFi 2.4GHz Channel 8    ; Narrow FM           ;      20000; Untagged
+  2452000000; WiFi 2.4GHz Channel 9    ; Narrow FM           ;      20000; Untagged
+  2457000000; WiFi 2.4GHz Channel 10   ; Narrow FM           ;      20000; Untagged
+  2462000000; WiFi 2.4GHz Channel 11   ; Narrow FM           ;      20000; Untagged
+  2467000000; WiFi 2.4GHz Channel 12   ; Narrow FM           ;      20000; Untagged
+  2472000000; WiFi 2.4GHz Channel 13   ; Narrow FM           ;      20000; Untagged
+  2484000000; WiFi 2.4GHz Channel 14   ; Narrow FM           ;      20000; Untagged
